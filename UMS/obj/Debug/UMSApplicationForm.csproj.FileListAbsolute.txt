@@ -1,0 +1,370 @@
+E:\Programmes\c#\UMS\UMS\bin\Debug\Database1.mdf
+E:\Programmes\c#\UMS\UMS\bin\Debug\Database1_log.ldf
+E:\Programmes\c#\UMS\UMS\bin\Debug\UMS.exe.config
+E:\Programmes\c#\UMS\UMS\bin\Debug\UMS.exe
+E:\Programmes\c#\UMS\UMS\bin\Debug\UMS.pdb
+E:\Programmes\c#\UMS\UMS\obj\Debug\UMSApplicationForm.csprojResolveAssemblyReference.cache
+E:\Programmes\c#\UMS\UMS\obj\Debug\UMS.Login.resources
+E:\Programmes\c#\UMS\UMS\obj\Debug\UMS.Properties.Resources.resources
+E:\Programmes\c#\UMS\UMS\obj\Debug\UMSApplicationForm.csproj.GenerateResource.Cache
+E:\Programmes\c#\UMS\UMS\obj\Debug\UMS.exe
+E:\Programmes\c#\UMS\UMS\obj\Debug\UMS.pdb
+E:\Programmes\c#\UMS\UMS\obj\Debug\UMS.AdmissionDeptHome.resources
+E:\Programmes\c#\UMS\UMS\bin\Debug\Database1.sdf
+E:\Programmes\c#\UMS\UMS\bin\Debug\UMSDatabase.mdf
+E:\Programmes\c#\UMS\UMS\bin\Debug\UMSDatabase_log.ldf
+E:\Programmes\c#\UMS\UMS\bin\Debug\ClassLibrary.dll
+E:\Programmes\c#\UMS\UMS\bin\Debug\Repository.dll
+E:\Programmes\c#\UMS\UMS\bin\Debug\ClassLibrary.pdb
+E:\Programmes\c#\UMS\UMS\bin\Debug\Repository.pdb
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\UMS V1.1\UMS\bin\Debug\UMS.exe.config
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\UMS V1.1\UMS\obj\Debug\UMS.exe
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\UMS V1.1\UMS\obj\Debug\UMS.pdb
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\UMS V1.1\UMS\bin\Debug\Database1.sdf
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\UMS V1.1\UMS\bin\Debug\UMSDatabase.mdf
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\UMS V1.1\UMS\bin\Debug\UMSDatabase_log.ldf
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\UMS V1.1\UMS\bin\Debug\Database1.mdf
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\UMS V1.1\UMS\bin\Debug\Database1_log.ldf
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\UMS V1.1\UMS\bin\Debug\UMS.exe
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\UMS V1.1\UMS\bin\Debug\UMS.pdb
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\UMS V1.1\UMS\bin\Debug\ClassLibrary.dll
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\UMS V1.1\UMS\bin\Debug\Repository.dll
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\UMS V1.1\UMS\bin\Debug\ClassLibrary.pdb
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\UMS V1.1\UMS\bin\Debug\Repository.pdb
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\UMS V1.1\UMS\obj\Debug\UMSApplicationForm.csprojResolveAssemblyReference.cache
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\UMS V1.1\UMS\obj\Debug\UMS.AdmissionDeptHome.resources
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\UMS V1.1\UMS\obj\Debug\UMS.Login.resources
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\UMS V1.1\UMS\obj\Debug\UMS.Properties.Resources.resources
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\UMS V1.1\UMS\obj\Debug\UMSApplicationForm.csproj.GenerateResource.Cache
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\UMS V1.1\UMS\obj\Debug\UMS.StudentHome.resources
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\UMS V1.1\UMS\obj\Debug\UMS.FacultyHome.resources
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\UMS V1.2.Raihan.Nadim\UMS\bin\Debug\UMS.exe.config
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.exe
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.pdb
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\UMS V1.2.Raihan.Nadim\UMS\bin\Debug\Database1.sdf
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\UMS V1.2.Raihan.Nadim\UMS\bin\Debug\UMSDatabase.mdf
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\UMS V1.2.Raihan.Nadim\UMS\bin\Debug\UMSDatabase_log.ldf
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\UMS V1.2.Raihan.Nadim\UMS\bin\Debug\Database1.mdf
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\UMS V1.2.Raihan.Nadim\UMS\bin\Debug\Database1_log.ldf
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\UMS V1.2.Raihan.Nadim\UMS\bin\Debug\UMS.exe
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\UMS V1.2.Raihan.Nadim\UMS\bin\Debug\UMS.pdb
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\UMS V1.2.Raihan.Nadim\UMS\bin\Debug\ClassLibrary.dll
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\UMS V1.2.Raihan.Nadim\UMS\bin\Debug\Repository.dll
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\UMS V1.2.Raihan.Nadim\UMS\bin\Debug\ClassLibrary.pdb
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\UMS V1.2.Raihan.Nadim\UMS\bin\Debug\Repository.pdb
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMSApplicationForm.csprojResolveAssemblyReference.cache
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.AdmissionDeptHome.resources
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.Login.resources
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.Properties.Resources.resources
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.StudentHome.resources
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.FacultyHome.resources
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMSApplicationForm.csproj.GenerateResource.Cache
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.CourseInfo.resources
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.OfferedCourses.resources
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.StudentNotes.resources
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.CourseResults.resources
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.Chatting.resources
+C:\Users\Asus\Desktop\UMS V1.2.Raihan.Nadim\UMS\bin\Debug\UMS.exe.config
+C:\Users\Asus\Desktop\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.exe
+C:\Users\Asus\Desktop\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.pdb
+C:\Users\Asus\Desktop\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMSApplicationForm.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.AdmissionDeptHome.resources
+C:\Users\Asus\Desktop\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.ApproveDrop.resources
+C:\Users\Asus\Desktop\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.Chatting.resources
+C:\Users\Asus\Desktop\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.CourseInfo.resources
+C:\Users\Asus\Desktop\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.Login.resources
+C:\Users\Asus\Desktop\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.OfferedCourses.resources
+C:\Users\Asus\Desktop\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.Properties.Resources.resources
+C:\Users\Asus\Desktop\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.ShowCourseStudent.resources
+C:\Users\Asus\Desktop\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.StudentHome.resources
+C:\Users\Asus\Desktop\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.FacultyHome.resources
+C:\Users\Asus\Desktop\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.StudentNotes.resources
+C:\Users\Asus\Desktop\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.UploadGrade.resources
+C:\Users\Asus\Desktop\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.UploadNotice.resources
+C:\Users\Asus\Desktop\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMSApplicationForm.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.ShowCourseResults.resources
+C:\Users\Asus\Desktop\UMS V1.2.Raihan.Nadim\UMS\bin\Debug\Database1.sdf
+C:\Users\Asus\Desktop\UMS V1.2.Raihan.Nadim\UMS\bin\Debug\UMSDatabase.mdf
+C:\Users\Asus\Desktop\UMS V1.2.Raihan.Nadim\UMS\bin\Debug\UMSDatabase_log.ldf
+C:\Users\Asus\Desktop\UMS V1.2.Raihan.Nadim\UMS\bin\Debug\Database1.mdf
+C:\Users\Asus\Desktop\UMS V1.2.Raihan.Nadim\UMS\bin\Debug\Database1_log.ldf
+C:\Users\Asus\Desktop\UMS V1.2.Raihan.Nadim\UMS\bin\Debug\UMS.exe
+C:\Users\Asus\Desktop\UMS V1.2.Raihan.Nadim\UMS\bin\Debug\UMS.pdb
+C:\Users\Asus\Desktop\UMS V1.2.Raihan.Nadim\UMS\bin\Debug\ClassLibrary.dll
+C:\Users\Asus\Desktop\UMS V1.2.Raihan.Nadim\UMS\bin\Debug\Repository.dll
+C:\Users\Asus\Desktop\UMS V1.2.Raihan.Nadim\UMS\bin\Debug\ClassLibrary.pdb
+C:\Users\Asus\Desktop\UMS V1.2.Raihan.Nadim\UMS\bin\Debug\Repository.pdb
+C:\Users\Asus\Desktop\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.ShowRegistration.resources
+C:\Users\Asus\Desktop\UMS V1.2.Raihan.Nadim\UMS\bin\Debug\itextsharp.xml
+C:\Users\Asus\Desktop\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.AccountsDept.resources
+C:\Users\Asus\Desktop\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.AssignCourseInfo.resources
+C:\Users\Asus\Desktop\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.CheckScholarship.resources
+C:\Users\Asus\Desktop\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.CourseSelect.resources
+C:\Users\Asus\Desktop\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.CreateEmplyee.resources
+C:\Users\Asus\Desktop\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.CreateRoutine.resources
+C:\Users\Asus\Desktop\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.EditCourseInfo.resources
+C:\Users\Asus\Desktop\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.ExamInfo.resources
+C:\Users\Asus\Desktop\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.HandleScholarship.resources
+C:\Users\Asus\Desktop\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.HrDepartment.resources
+C:\Users\Asus\Desktop\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.ManageTeacherSalary.resources
+C:\Users\Asus\Desktop\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.RegistrationDept.resources
+C:\Users\Asus\Desktop\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.SemesterInfo.resources
+C:\Users\Asus\Desktop\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.StudentCreation.resources
+C:\Users\Asus\Desktop\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.StudentInfo.resources
+C:\Users\Asus\Desktop\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.UpdateTeacher.resources
+C:\Users\Asus\Desktop\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.ValidPayment.resources
+C:\Users\Asus\Desktop\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.ApplyVacation.resources
+C:\Users\Asus\Desktop\Final\UMS V1.2.Raihan.Nadim\UMS\bin\Debug\UMS.exe.config
+C:\Users\Asus\Desktop\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.exe
+C:\Users\Asus\Desktop\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.pdb
+C:\Users\Asus\Desktop\Final\UMS V1.2.Raihan.Nadim\UMS\bin\Debug\Database1.sdf
+C:\Users\Asus\Desktop\Final\UMS V1.2.Raihan.Nadim\UMS\bin\Debug\UMSDatabase.mdf
+C:\Users\Asus\Desktop\Final\UMS V1.2.Raihan.Nadim\UMS\bin\Debug\UMSDatabase_log.ldf
+C:\Users\Asus\Desktop\Final\UMS V1.2.Raihan.Nadim\UMS\bin\Debug\Database1.mdf
+C:\Users\Asus\Desktop\Final\UMS V1.2.Raihan.Nadim\UMS\bin\Debug\Database1_log.ldf
+C:\Users\Asus\Desktop\Final\UMS V1.2.Raihan.Nadim\UMS\bin\Debug\UMS.exe
+C:\Users\Asus\Desktop\Final\UMS V1.2.Raihan.Nadim\UMS\bin\Debug\UMS.pdb
+C:\Users\Asus\Desktop\Final\UMS V1.2.Raihan.Nadim\UMS\bin\Debug\ClassLibrary.dll
+C:\Users\Asus\Desktop\Final\UMS V1.2.Raihan.Nadim\UMS\bin\Debug\Repository.dll
+C:\Users\Asus\Desktop\Final\UMS V1.2.Raihan.Nadim\UMS\bin\Debug\ClassLibrary.pdb
+C:\Users\Asus\Desktop\Final\UMS V1.2.Raihan.Nadim\UMS\bin\Debug\Repository.pdb
+C:\Users\Asus\Desktop\Final\UMS V1.2.Raihan.Nadim\UMS\bin\Debug\itextsharp.xml
+C:\Users\Asus\Desktop\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMSApplicationForm.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.AccountsDept.resources
+C:\Users\Asus\Desktop\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.AdmissionDeptHome.resources
+C:\Users\Asus\Desktop\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.ApplyVacation.resources
+C:\Users\Asus\Desktop\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.ApproveDrop.resources
+C:\Users\Asus\Desktop\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.AssignCourseInfo.resources
+C:\Users\Asus\Desktop\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.Chatting.resources
+C:\Users\Asus\Desktop\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.CheckScholarship.resources
+C:\Users\Asus\Desktop\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.CourseInfo.resources
+C:\Users\Asus\Desktop\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.CourseSelect.resources
+C:\Users\Asus\Desktop\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.CreateEmplyee.resources
+C:\Users\Asus\Desktop\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.CreateRoutine.resources
+C:\Users\Asus\Desktop\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.EditCourseInfo.resources
+C:\Users\Asus\Desktop\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.ExamInfo.resources
+C:\Users\Asus\Desktop\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.HandleScholarship.resources
+C:\Users\Asus\Desktop\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.HrDepartment.resources
+C:\Users\Asus\Desktop\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.ManageTeacherSalary.resources
+C:\Users\Asus\Desktop\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.RegistrationDept.resources
+C:\Users\Asus\Desktop\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.SemesterInfo.resources
+C:\Users\Asus\Desktop\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.ShowCourseResults.resources
+C:\Users\Asus\Desktop\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.Login.resources
+C:\Users\Asus\Desktop\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.OfferedCourses.resources
+C:\Users\Asus\Desktop\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.Properties.Resources.resources
+C:\Users\Asus\Desktop\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.ShowCourseStudent.resources
+C:\Users\Asus\Desktop\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.ShowRegistration.resources
+C:\Users\Asus\Desktop\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.StudentCreation.resources
+C:\Users\Asus\Desktop\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.StudentHome.resources
+C:\Users\Asus\Desktop\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.FacultyHome.resources
+C:\Users\Asus\Desktop\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.StudentInfo.resources
+C:\Users\Asus\Desktop\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.StudentNotes.resources
+C:\Users\Asus\Desktop\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.UpdateTeacher.resources
+C:\Users\Asus\Desktop\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.UploadGrade.resources
+C:\Users\Asus\Desktop\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.UploadNotice.resources
+C:\Users\Asus\Desktop\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.ValidPayment.resources
+C:\Users\Asus\Desktop\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMSApplicationForm.csproj.GenerateResource.Cache
+C:\Users\shovon\Desktop\C sharp\Final\UMS V1.2.Raihan.Nadim\UMS\bin\Debug\UMS.exe.config
+C:\Users\shovon\Desktop\C sharp\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.exe
+C:\Users\shovon\Desktop\C sharp\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.pdb
+C:\Users\shovon\Desktop\C sharp\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMSApplicationForm.csprojResolveAssemblyReference.cache
+C:\Users\shovon\Desktop\C sharp\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.AccountsDept.resources
+C:\Users\shovon\Desktop\C sharp\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.AdmissionDeptHome.resources
+C:\Users\shovon\Desktop\C sharp\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.ApplyVacation.resources
+C:\Users\shovon\Desktop\C sharp\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.ApproveDrop.resources
+C:\Users\shovon\Desktop\C sharp\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.AssignCourseInfo.resources
+C:\Users\shovon\Desktop\C sharp\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.Chatting.resources
+C:\Users\shovon\Desktop\C sharp\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.CheckScholarship.resources
+C:\Users\shovon\Desktop\C sharp\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.CourseInfo.resources
+C:\Users\shovon\Desktop\C sharp\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.CourseSelect.resources
+C:\Users\shovon\Desktop\C sharp\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.CreateEmplyee.resources
+C:\Users\shovon\Desktop\C sharp\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.CreateRoutine.resources
+C:\Users\shovon\Desktop\C sharp\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.EditCourseInfo.resources
+C:\Users\shovon\Desktop\C sharp\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.ExamInfo.resources
+C:\Users\shovon\Desktop\C sharp\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.HandleScholarship.resources
+C:\Users\shovon\Desktop\C sharp\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.HrDepartment.resources
+C:\Users\shovon\Desktop\C sharp\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.ManageTeacherSalary.resources
+C:\Users\shovon\Desktop\C sharp\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.RegistrationDept.resources
+C:\Users\shovon\Desktop\C sharp\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.SemesterInfo.resources
+C:\Users\shovon\Desktop\C sharp\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.ShowCourseResults.resources
+C:\Users\shovon\Desktop\C sharp\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.Login.resources
+C:\Users\shovon\Desktop\C sharp\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.OfferedCourses.resources
+C:\Users\shovon\Desktop\C sharp\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.Properties.Resources.resources
+C:\Users\shovon\Desktop\C sharp\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.ShowCourseStudent.resources
+C:\Users\shovon\Desktop\C sharp\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.ShowRegistration.resources
+C:\Users\shovon\Desktop\C sharp\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.StudentCreation.resources
+C:\Users\shovon\Desktop\C sharp\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.StudentHome.resources
+C:\Users\shovon\Desktop\C sharp\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.FacultyHome.resources
+C:\Users\shovon\Desktop\C sharp\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.StudentInfo.resources
+C:\Users\shovon\Desktop\C sharp\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.StudentNotes.resources
+C:\Users\shovon\Desktop\C sharp\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.UpdateTeacher.resources
+C:\Users\shovon\Desktop\C sharp\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.UploadGrade.resources
+C:\Users\shovon\Desktop\C sharp\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.UploadNotice.resources
+C:\Users\shovon\Desktop\C sharp\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.ValidPayment.resources
+C:\Users\shovon\Desktop\C sharp\Final\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMSApplicationForm.csproj.GenerateResource.Cache
+C:\Users\shovon\Desktop\C sharp\Final\UMS V1.2.Raihan.Nadim\UMS\bin\Debug\Database1.sdf
+C:\Users\shovon\Desktop\C sharp\Final\UMS V1.2.Raihan.Nadim\UMS\bin\Debug\UMSDatabase.mdf
+C:\Users\shovon\Desktop\C sharp\Final\UMS V1.2.Raihan.Nadim\UMS\bin\Debug\UMSDatabase_log.ldf
+C:\Users\shovon\Desktop\C sharp\Final\UMS V1.2.Raihan.Nadim\UMS\bin\Debug\Database1.mdf
+C:\Users\shovon\Desktop\C sharp\Final\UMS V1.2.Raihan.Nadim\UMS\bin\Debug\Database1_log.ldf
+C:\Users\shovon\Desktop\C sharp\Final\UMS V1.2.Raihan.Nadim\UMS\bin\Debug\UMS.exe
+C:\Users\shovon\Desktop\C sharp\Final\UMS V1.2.Raihan.Nadim\UMS\bin\Debug\UMS.pdb
+C:\Users\shovon\Desktop\C sharp\Final\UMS V1.2.Raihan.Nadim\UMS\bin\Debug\ClassLibrary.dll
+C:\Users\shovon\Desktop\C sharp\Final\UMS V1.2.Raihan.Nadim\UMS\bin\Debug\Repository.dll
+C:\Users\shovon\Desktop\C sharp\Final\UMS V1.2.Raihan.Nadim\UMS\bin\Debug\ClassLibrary.pdb
+C:\Users\shovon\Desktop\C sharp\Final\UMS V1.2.Raihan.Nadim\UMS\bin\Debug\Repository.pdb
+C:\Users\shovon\Desktop\C sharp\Final\UMS V1.2.Raihan.Nadim\UMS\bin\Debug\itextsharp.xml
+C:\Users\ASUS\Desktop\Final V2\UMS V1.2.Raihan.Nadim\UMS\bin\Debug\UMS.exe.config
+C:\Users\ASUS\Desktop\Final V2\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.exe
+C:\Users\ASUS\Desktop\Final V2\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.pdb
+C:\Users\ASUS\Desktop\Final V2\UMS V1.2.Raihan.Nadim\UMS\bin\Debug\Database1.sdf
+C:\Users\ASUS\Desktop\Final V2\UMS V1.2.Raihan.Nadim\UMS\bin\Debug\UMSDatabase.mdf
+C:\Users\ASUS\Desktop\Final V2\UMS V1.2.Raihan.Nadim\UMS\bin\Debug\UMSDatabase_log.ldf
+C:\Users\ASUS\Desktop\Final V2\UMS V1.2.Raihan.Nadim\UMS\bin\Debug\Database1.mdf
+C:\Users\ASUS\Desktop\Final V2\UMS V1.2.Raihan.Nadim\UMS\bin\Debug\Database1_log.ldf
+C:\Users\ASUS\Desktop\Final V2\UMS V1.2.Raihan.Nadim\UMS\bin\Debug\UMS.exe
+C:\Users\ASUS\Desktop\Final V2\UMS V1.2.Raihan.Nadim\UMS\bin\Debug\UMS.pdb
+C:\Users\ASUS\Desktop\Final V2\UMS V1.2.Raihan.Nadim\UMS\bin\Debug\ClassLibrary.dll
+C:\Users\ASUS\Desktop\Final V2\UMS V1.2.Raihan.Nadim\UMS\bin\Debug\Repository.dll
+C:\Users\ASUS\Desktop\Final V2\UMS V1.2.Raihan.Nadim\UMS\bin\Debug\ClassLibrary.pdb
+C:\Users\ASUS\Desktop\Final V2\UMS V1.2.Raihan.Nadim\UMS\bin\Debug\Repository.pdb
+C:\Users\ASUS\Desktop\Final V2\UMS V1.2.Raihan.Nadim\UMS\bin\Debug\itextsharp.xml
+C:\Users\ASUS\Desktop\Final V2\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMSApplicationForm.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\Final V2\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.AccountsDept.resources
+C:\Users\ASUS\Desktop\Final V2\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.AdmissionDeptHome.resources
+C:\Users\ASUS\Desktop\Final V2\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.ApplyVacation.resources
+C:\Users\ASUS\Desktop\Final V2\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.ApproveDrop.resources
+C:\Users\ASUS\Desktop\Final V2\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.AssignCourseInfo.resources
+C:\Users\ASUS\Desktop\Final V2\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.Chatting.resources
+C:\Users\ASUS\Desktop\Final V2\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.CheckScholarship.resources
+C:\Users\ASUS\Desktop\Final V2\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.CourseInfo.resources
+C:\Users\ASUS\Desktop\Final V2\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.CourseSelect.resources
+C:\Users\ASUS\Desktop\Final V2\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.CreateEmplyee.resources
+C:\Users\ASUS\Desktop\Final V2\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.CreateRoutine.resources
+C:\Users\ASUS\Desktop\Final V2\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.EditCourseInfo.resources
+C:\Users\ASUS\Desktop\Final V2\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.ExamInfo.resources
+C:\Users\ASUS\Desktop\Final V2\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.HandleScholarship.resources
+C:\Users\ASUS\Desktop\Final V2\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.HrDepartment.resources
+C:\Users\ASUS\Desktop\Final V2\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.ManageTeacherSalary.resources
+C:\Users\ASUS\Desktop\Final V2\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.RegistrationDept.resources
+C:\Users\ASUS\Desktop\Final V2\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.SemesterInfo.resources
+C:\Users\ASUS\Desktop\Final V2\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.ShowCourseResults.resources
+C:\Users\ASUS\Desktop\Final V2\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.Login.resources
+C:\Users\ASUS\Desktop\Final V2\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.OfferedCourses.resources
+C:\Users\ASUS\Desktop\Final V2\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Final V2\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.ShowCourseStudent.resources
+C:\Users\ASUS\Desktop\Final V2\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.ShowRegistration.resources
+C:\Users\ASUS\Desktop\Final V2\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.StudentCreation.resources
+C:\Users\ASUS\Desktop\Final V2\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.StudentHome.resources
+C:\Users\ASUS\Desktop\Final V2\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.FacultyHome.resources
+C:\Users\ASUS\Desktop\Final V2\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.StudentInfo.resources
+C:\Users\ASUS\Desktop\Final V2\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.StudentNotes.resources
+C:\Users\ASUS\Desktop\Final V2\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.UpdateTeacher.resources
+C:\Users\ASUS\Desktop\Final V2\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.UploadGrade.resources
+C:\Users\ASUS\Desktop\Final V2\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.UploadNotice.resources
+C:\Users\ASUS\Desktop\Final V2\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.ValidPayment.resources
+C:\Users\ASUS\Desktop\Final V2\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMSApplicationForm.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\Final V2\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.ShowProfile.resources
+C:\Users\Asus\Desktop\UMS V1.2.Raihan.Nadim\UMS\obj\Debug\UMS.ShowProfile.resources
+C:\Users\Asus\Desktop\FinalV3\UMS\bin\Debug\UMS.exe.config
+C:\Users\Asus\Desktop\FinalV3\UMS\obj\Debug\UMS.exe
+C:\Users\Asus\Desktop\FinalV3\UMS\obj\Debug\UMS.pdb
+C:\Users\Asus\Desktop\FinalV3\UMS\bin\Debug\Database1.sdf
+C:\Users\Asus\Desktop\FinalV3\UMS\bin\Debug\UMSDatabase.mdf
+C:\Users\Asus\Desktop\FinalV3\UMS\bin\Debug\UMSDatabase_log.ldf
+C:\Users\Asus\Desktop\FinalV3\UMS\bin\Debug\Database1.mdf
+C:\Users\Asus\Desktop\FinalV3\UMS\bin\Debug\Database1_log.ldf
+C:\Users\Asus\Desktop\FinalV3\UMS\bin\Debug\UMS.exe
+C:\Users\Asus\Desktop\FinalV3\UMS\bin\Debug\UMS.pdb
+C:\Users\Asus\Desktop\FinalV3\UMS\bin\Debug\ClassLibrary.dll
+C:\Users\Asus\Desktop\FinalV3\UMS\bin\Debug\Repository.dll
+C:\Users\Asus\Desktop\FinalV3\UMS\bin\Debug\ClassLibrary.pdb
+C:\Users\Asus\Desktop\FinalV3\UMS\bin\Debug\Repository.pdb
+C:\Users\Asus\Desktop\FinalV3\UMS\bin\Debug\itextsharp.xml
+C:\Users\Asus\Desktop\FinalV3\UMS\obj\Debug\UMSApplicationForm.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\FinalV3\UMS\obj\Debug\UMS.AccountsDept.resources
+C:\Users\Asus\Desktop\FinalV3\UMS\obj\Debug\UMS.AdmissionDeptHome.resources
+C:\Users\Asus\Desktop\FinalV3\UMS\obj\Debug\UMS.ApplyVacation.resources
+C:\Users\Asus\Desktop\FinalV3\UMS\obj\Debug\UMS.ApproveDrop.resources
+C:\Users\Asus\Desktop\FinalV3\UMS\obj\Debug\UMS.AssignCourseInfo.resources
+C:\Users\Asus\Desktop\FinalV3\UMS\obj\Debug\UMS.Chatting.resources
+C:\Users\Asus\Desktop\FinalV3\UMS\obj\Debug\UMS.CheckScholarship.resources
+C:\Users\Asus\Desktop\FinalV3\UMS\obj\Debug\UMS.CourseInfo.resources
+C:\Users\Asus\Desktop\FinalV3\UMS\obj\Debug\UMS.CourseSelect.resources
+C:\Users\Asus\Desktop\FinalV3\UMS\obj\Debug\UMS.CreateEmplyee.resources
+C:\Users\Asus\Desktop\FinalV3\UMS\obj\Debug\UMS.CreateRoutine.resources
+C:\Users\Asus\Desktop\FinalV3\UMS\obj\Debug\UMS.EditCourseInfo.resources
+C:\Users\Asus\Desktop\FinalV3\UMS\obj\Debug\UMS.ExamInfo.resources
+C:\Users\Asus\Desktop\FinalV3\UMS\obj\Debug\UMS.HandleScholarship.resources
+C:\Users\Asus\Desktop\FinalV3\UMS\obj\Debug\UMS.HrDepartment.resources
+C:\Users\Asus\Desktop\FinalV3\UMS\obj\Debug\UMS.ManageTeacherSalary.resources
+C:\Users\Asus\Desktop\FinalV3\UMS\obj\Debug\UMS.RegistrationDept.resources
+C:\Users\Asus\Desktop\FinalV3\UMS\obj\Debug\UMS.SemesterInfo.resources
+C:\Users\Asus\Desktop\FinalV3\UMS\obj\Debug\UMS.ShowCourseResults.resources
+C:\Users\Asus\Desktop\FinalV3\UMS\obj\Debug\UMS.Login.resources
+C:\Users\Asus\Desktop\FinalV3\UMS\obj\Debug\UMS.OfferedCourses.resources
+C:\Users\Asus\Desktop\FinalV3\UMS\obj\Debug\UMS.Properties.Resources.resources
+C:\Users\Asus\Desktop\FinalV3\UMS\obj\Debug\UMS.ShowCourseStudent.resources
+C:\Users\Asus\Desktop\FinalV3\UMS\obj\Debug\UMS.ShowProfile.resources
+C:\Users\Asus\Desktop\FinalV3\UMS\obj\Debug\UMS.ShowRegistration.resources
+C:\Users\Asus\Desktop\FinalV3\UMS\obj\Debug\UMS.StudentCreation.resources
+C:\Users\Asus\Desktop\FinalV3\UMS\obj\Debug\UMS.StudentHome.resources
+C:\Users\Asus\Desktop\FinalV3\UMS\obj\Debug\UMS.FacultyHome.resources
+C:\Users\Asus\Desktop\FinalV3\UMS\obj\Debug\UMS.StudentInfo.resources
+C:\Users\Asus\Desktop\FinalV3\UMS\obj\Debug\UMS.StudentNotes.resources
+C:\Users\Asus\Desktop\FinalV3\UMS\obj\Debug\UMS.UpdateTeacher.resources
+C:\Users\Asus\Desktop\FinalV3\UMS\obj\Debug\UMS.UploadGrade.resources
+C:\Users\Asus\Desktop\FinalV3\UMS\obj\Debug\UMS.UploadNotice.resources
+C:\Users\Asus\Desktop\FinalV3\UMS\obj\Debug\UMS.ValidPayment.resources
+C:\Users\Asus\Desktop\FinalV3\UMS\obj\Debug\UMSApplicationForm.csproj.GenerateResource.Cache
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\FinalV3\UMS\bin\Debug\UMS.exe.config
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\FinalV3\UMS\obj\Debug\UMS.exe
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\FinalV3\UMS\obj\Debug\UMS.pdb
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\FinalV3\UMS\bin\Debug\Database1.sdf
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\FinalV3\UMS\bin\Debug\UMSDatabase.mdf
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\FinalV3\UMS\bin\Debug\UMSDatabase_log.ldf
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\FinalV3\UMS\bin\Debug\Database1.mdf
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\FinalV3\UMS\bin\Debug\Database1_log.ldf
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\FinalV3\UMS\bin\Debug\UMS.exe
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\FinalV3\UMS\bin\Debug\UMS.pdb
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\FinalV3\UMS\bin\Debug\ClassLibrary.dll
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\FinalV3\UMS\bin\Debug\Repository.dll
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\FinalV3\UMS\bin\Debug\ClassLibrary.pdb
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\FinalV3\UMS\bin\Debug\Repository.pdb
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\FinalV3\UMS\bin\Debug\itextsharp.xml
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\FinalV3\UMS\obj\Debug\UMSApplicationForm.csprojResolveAssemblyReference.cache
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\FinalV3\UMS\obj\Debug\UMS.AccountsDept.resources
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\FinalV3\UMS\obj\Debug\UMS.AdmissionDeptHome.resources
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\FinalV3\UMS\obj\Debug\UMS.ApplyVacation.resources
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\FinalV3\UMS\obj\Debug\UMS.ApproveDrop.resources
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\FinalV3\UMS\obj\Debug\UMS.AssignCourseInfo.resources
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\FinalV3\UMS\obj\Debug\UMS.Chatting.resources
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\FinalV3\UMS\obj\Debug\UMS.CheckScholarship.resources
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\FinalV3\UMS\obj\Debug\UMS.CourseInfo.resources
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\FinalV3\UMS\obj\Debug\UMS.CourseSelect.resources
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\FinalV3\UMS\obj\Debug\UMS.CreateEmplyee.resources
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\FinalV3\UMS\obj\Debug\UMS.CreateRoutine.resources
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\FinalV3\UMS\obj\Debug\UMS.EditCourseInfo.resources
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\FinalV3\UMS\obj\Debug\UMS.ExamInfo.resources
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\FinalV3\UMS\obj\Debug\UMS.HandleScholarship.resources
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\FinalV3\UMS\obj\Debug\UMS.HrDepartment.resources
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\FinalV3\UMS\obj\Debug\UMS.ManageTeacherSalary.resources
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\FinalV3\UMS\obj\Debug\UMS.RegistrationDept.resources
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\FinalV3\UMS\obj\Debug\UMS.SemesterInfo.resources
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\FinalV3\UMS\obj\Debug\UMS.ShowCourseResults.resources
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\FinalV3\UMS\obj\Debug\UMS.Login.resources
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\FinalV3\UMS\obj\Debug\UMS.OfferedCourses.resources
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\FinalV3\UMS\obj\Debug\UMS.Properties.Resources.resources
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\FinalV3\UMS\obj\Debug\UMS.ShowCourseStudent.resources
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\FinalV3\UMS\obj\Debug\UMS.ShowProfile.resources
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\FinalV3\UMS\obj\Debug\UMS.ShowRegistration.resources
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\FinalV3\UMS\obj\Debug\UMS.StudentCreation.resources
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\FinalV3\UMS\obj\Debug\UMS.StudentHome.resources
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\FinalV3\UMS\obj\Debug\UMS.FacultyHome.resources
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\FinalV3\UMS\obj\Debug\UMS.StudentInfo.resources
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\FinalV3\UMS\obj\Debug\UMS.StudentNotes.resources
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\FinalV3\UMS\obj\Debug\UMS.UpdateTeacher.resources
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\FinalV3\UMS\obj\Debug\UMS.UploadGrade.resources
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\FinalV3\UMS\obj\Debug\UMS.UploadNotice.resources
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\FinalV3\UMS\obj\Debug\UMS.ValidPayment.resources
+F:\Study\Codes\6th Sem Mohaimen Sir - C#\C#\Final Project\Folder\FinalV3\UMS\obj\Debug\UMSApplicationForm.csproj.GenerateResource.Cache
